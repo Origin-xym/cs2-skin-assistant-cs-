@@ -1,0 +1,17 @@
+# 采集侧依赖（版本为 2026-11-25 实际安装锁定的版本）
+# 重建环境：
+#   D:\Python\python.exe -m venv .venv
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
+
+httpx==0.28.1          # 异步 HTTP，适配器主力
+pydantic==2.14.4       # 数据校验与序列化
+tenacity==9.2.1        # 重试与指数退避
+loguru==0.8.0          # 日志
+orjson==3.13.0         # 快速 JSON 解析
+redis==8.2.0           # 往 Redis Stream 推快照
+python-dotenv==1.2.4   # 读取 .env
+cryptography==50.0.2   # AES-GCM 登录态加密
+
+
+# 页面必须执行 JS 才出数据时才用；内核已装在 D:\playwright-browsers
+playwright==1.65.2
