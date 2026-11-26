@@ -2,8 +2,11 @@ package com.cs2skin.assistant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableScheduling;
+
 
 @SpringBootApplication
+@EnableScheduling
 public class AppCoreApplication {
 
     public static void main(String[] args) {

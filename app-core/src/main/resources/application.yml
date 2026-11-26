@@ -1,0 +1,61 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: app-core
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/cs2_skin?useUnicode=true&characterEncoding=utf8&connectionTimeZone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false&rewriteBatchedStatements=true
+    username: ${MYSQL_USER:cs2app}
+    password: ${MYSQL_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      connection-timeout: 5000
+  data:
+    redis:
+      host: ${REDIS_HOST:127.0.0.1}
+      port: ${REDIS_PORT:6379}
+      database: ${REDIS_DB:0}
+      timeout: 10s
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+    validate-on-migrate: true
+  jackson:
+    time-zone: Asia/Shanghai
+    date-format: yyyy-MM-dd HH:mm:ss
+    serialization:
+      write-dates-as-timestamps: false
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+  global-config:
+    db-config:
+      id-type: auto
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+logging:
+  level:
+    com.cs2skin: debug
+
+cs2:
+  stream:
+    key: ${STREAM_KEY:cs2:listings}
+    group: ${STREAM_GROUP:app-core}
+    consumer: ${STREAM_CONSUMER:app-core-1}
+  feishu:
+    webhook: ${FEISHU_WEBHOOK:}
+  rule:
+    evaluate-interval-ms: ${RULE_EVAL_INTERVAL_MS:60000}
+  alert:
+    retry-interval-ms: ${ALERT_RETRY_INTERVAL_MS:300000}
+
