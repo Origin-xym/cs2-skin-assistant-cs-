@@ -100,14 +100,22 @@ class PlatformClient:
         if self._credential is None and credential_store is not None:
             self._credential = credential_store.load(platform)
 
-        default_headers = {"User-Agent": user_agent, "Accept-Language": "zh-CN,zh;q=0.9"}
+        self._static_headers = {
+            "User-Agent": user_agent,
+            "Accept-Language": "zh-CN,zh;q=0.9",
+        }
         if headers:
-            default_headers.update(headers)
+            self._static_headers.update(headers)
+
+        initial_headers = dict(self._static_headers)
+        if self._credential and self._credential.headers:
+            initial_headers.update(self._credential.headers)
+
 
         self._client = httpx.AsyncClient(
             base_url=base_url,
             timeout=httpx.Timeout(settings.request_timeout, connect=5.0),
-            headers=default_headers,
+            headers=initial_headers,
             cookies=self._credential.cookies if self._credential else None,
             limits=httpx.Limits(max_connections=2, max_keepalive_connections=1),
             transport=transport,
@@ -155,10 +163,16 @@ class PlatformClient:
     def reload_credential(self) -> Credential | None:
         if self._store is None:
             return self._credential
+        
         self._credential = self._store.load(self.platform)
         self._client.cookies.clear()
         if self._credential:
             self._client.cookies.update(self._credential.cookies)
+
+        self._client.headers.clear()
+        self._client.headers.update(self._static_headers)
+        if self._credential and self._credential.headers:
+            self._client.headers.update(self._credential.headers)
         return self._credential
 
     @property

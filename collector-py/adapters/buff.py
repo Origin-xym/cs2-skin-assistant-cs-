@@ -60,6 +60,43 @@ def _parse_float(value: Any) -> float | None:
         return None
     return number if 0.0 <= number <= 1.0 else None
 
+def _clean_raw(item: dict[str, Any]) -> dict[str, Any]:
+    """只保留非个人字段；user_id / user_steamid / 昵称 / 资产 ID 不进 raw。"""
+    asset = item.get("asset_info") or {}
+    info = asset.get("info") or {}
+    return {
+        "goods_id": item.get("goods_id"),
+        "price": item.get("price"),
+        "created_at": item.get("created_at"),
+        "updated_at": item.get("updated_at"),
+        "state": item.get("state"),
+        "state_text": item.get("state_text"),
+        "tradable_cooldown": item.get("tradable_cooldown"),
+        "allow_bargain": item.get("allow_bargain"),
+        "fee": item.get("fee"),
+        "income": item.get("income"),
+        "recent_average_duration": item.get("recent_average_duration"),
+        "recent_deliver_rate": item.get("recent_deliver_rate"),
+        "appid": item.get("appid"),
+        "game": item.get("game"),
+        "mode": item.get("mode"),
+        "order_type": item.get("order_type"),
+        "sticker_premium": item.get("sticker_premium"),
+        "asset_info": {
+            "paintwear": asset.get("paintwear"),
+            "tradable_unfrozen_time": asset.get("tradable_unfrozen_time"),
+            "info": {
+                "paintseed": info.get("paintseed"),
+                "paintindex": info.get("paintindex"),
+                "stickers": info.get("stickers") or [],
+                "keychains": info.get("keychains") or [],
+                "tournament_tags": info.get("tournament_tags") or [],
+                "fraudwarnings": info.get("fraudwarnings") or [],
+                "icon_url": info.get("icon_url"),
+            },
+        },
+    }
+
 class BuffCollector(MarketCollector):
     platform = "BUFF"
 
@@ -90,7 +127,7 @@ class BuffCollector(MarketCollector):
         if code != "OK":
             if "login" in code.lower() or "session" in code.lower():
                 await self.client.report_fatal(f"buff code={code}")
-            raise BuffApiError(f"BUFF 返回 code={code}")
+            raise BuffApiError(f"BUFF 返回 code={code}（goods_id={platform_goods_id}）")
 
         items = (payload.get("data") or {}).get("items") or []
         return [self._parse_item(item) for item in items]
@@ -111,7 +148,7 @@ class BuffCollector(MarketCollector):
             paint_seed=info.get("paintseed"),
             seller_id=_seller_hash(self.platform, (item.get("user") or {}).get("nickname")),
             listed_at=_parse_listed_at(item.get("created_at")),
-            raw=item,
+            raw=_clean_raw(item),
         )
 
     async def fetch_detail(
