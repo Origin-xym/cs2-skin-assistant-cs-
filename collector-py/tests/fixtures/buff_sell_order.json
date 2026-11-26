@@ -1,0 +1,2712 @@
+{
+  "code": "OK",
+  "data": {
+    "items": [
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4204062819-BA22-144324439",
+        "user_id": "U1094342319",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54191403469",
+          "classid": "7993037085",
+          "instanceid": "6277323817",
+          "goods_id": 34066,
+          "paintwear": "0.3642471134662628",
+          "action_link": "/api/market/cs2_inspect/?assetid=54191403469",
+          "id": "M4636793396",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "allu | 2015年科隆锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a9a2fbe143cfa395613d7fdsjGEakIV?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 437,
+                "sell_reference_price": "14.9"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 261,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament7",
+                "localized_name": "2015年 ESL One 科隆锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team1",
+                "localized_name": "Ninjas in Pyjamas"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "allu",
+                "localized_name": "allu（Aleksi Jalli）"
+              }
+            ],
+            "inspect_start_at": "2026-10-16 14:36:22",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ad1c7481867ea78c912cdc3VzAaKBMV07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ad1c7481867ea78c912cdc3VzAaKBMV07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ad1c7481867ea78c912cdc3VzAaKBMV07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "514",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795631092,
+        "updated_at": 1795631092,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 56.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4204225547-BA21-144324438",
+        "user_id": "U1094232706",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54548535293",
+          "classid": "7993037085",
+          "instanceid": "9223977322",
+          "goods_id": 34066,
+          "paintwear": "0.327654093503952",
+          "action_link": "/api/market/cs2_inspect/?assetid=54548535293",
+          "id": "M4695366211",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "gxx-（金色）| 2023年巴黎锦标赛",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/645c96102b1fce4ebc38f94bUcSQ1RCE04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 6836,
+                "sell_reference_price": "21.69"
+              },
+              {
+                "name": "gxx-（金色）| 2023年巴黎锦标赛",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/645c96102b1fce4ebc38f94bUcSQ1RCE04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 6836,
+                "sell_reference_price": "21.69"
+              },
+              {
+                "name": "gxx-（金色）| 2023年巴黎锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/645c96102b1fce4ebc38f94bUcSQ1RCE04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 6836,
+                "sell_reference_price": "21.69"
+              },
+              {
+                "name": "gxx-（金色）| 2023年巴黎锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/645c96102b1fce4ebc38f94bUcSQ1RCE04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 6836,
+                "sell_reference_price": "21.69"
+              },
+              {
+                "name": "910 | 2024年哥本哈根锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/66013f8056387d63d0da2aa7ZpW5WKOW05?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": -0.05911592021584511,
+                "offset_y": 0.05395933985710144,
+                "sticker_id": 7739,
+                "sell_reference_price": "0.02"
+              }
+            ],
+            "keychains": [
+              {
+                "pattern": 58961,
+                "sticker_id": 10,
+                "wrapped_sticker": null,
+                "slot": 0,
+                "name": "起原酱",
+                "img_url": "https://market.fp.ps.netease.com/file/66fdf1fc5abd0f287e09a332v8LBC2Hu05",
+                "is_souvenir": false,
+                "is_sticker_slab": false,
+                "goods_id": 968012,
+                "pattern_color": "#AB7300",
+                "sell_reference_price": "0.83"
+              }
+            ],
+            "paintseed": 428,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: ''#1/1 此志无双",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament21",
+                "localized_name": "2023年 BLAST.tv 巴黎锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament22",
+                "localized_name": "2024年 PGL 哥本哈根"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team114",
+                "localized_name": "Bad News Eagles"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team122",
+                "localized_name": "The MongolZ"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "gxx",
+                "localized_name": "gxx-（Genc Kolgeci）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "910",
+                "localized_name": "910（Usukhbayar Banzragch）"
+              }
+            ],
+            "inspect_start_at": "2026-11-14 17:28:05",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6af82ad01998c681296bbbd8w0LL0xuS07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6af82ad01998c681296bbbd8w0LL0xuS07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6af82ad01998c681296bbbd8w0LL0xuS07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "514.5",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795624850,
+        "updated_at": 1795624850,
+        "recent_deliver_rate": null,
+        "recent_average_duration": null,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4186505316-B93F-144322740",
+        "user_id": "U1099525108",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "53935156425",
+          "classid": "7993037085",
+          "instanceid": "6516600447",
+          "goods_id": 34066,
+          "paintwear": "0.30307310819625854",
+          "action_link": "/api/market/cs2_inspect/?assetid=53935156425",
+          "id": "M4647417286",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "sh1ro（金色，冠军）| 2024年上海锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/67650c60f2b91f7a022d3046oxi4orXi06?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": -0.067508764564991,
+                "offset_y": -0.06753483414649963,
+                "rotation": -4.5,
+                "sticker_id": 8548,
+                "sell_reference_price": "15.79"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 222,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 拿在手里心别慌 这是左总送的枪",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament23",
+                "localized_name": "2024年 完美世界 上海"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team81",
+                "localized_name": "Team Spirit"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "sh1ro",
+                "localized_name": "sh1ro（Dmitrii Sokolov）"
+              }
+            ],
+            "inspect_start_at": "2026-09-26 12:40:58",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b07078f7cbcca5e59eaa17fHDkOQYJE07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b07078f7cbcca5e59eaa17fHDkOQYJE07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b07078f7cbcca5e59eaa17fHDkOQYJE07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "515",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1793582967,
+        "updated_at": 1795413671,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 4010.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0633312,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206795122-BA08-144324461",
+        "user_id": "U1092251167",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "38586966965",
+          "classid": "7993037085",
+          "instanceid": "7756746739",
+          "goods_id": 34066,
+          "paintwear": "0.37014782428741455",
+          "action_link": "/api/market/cs2_inspect/?assetid=38586966965",
+          "id": "M5369707461",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "s1mple （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 3,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/618c834387d5df70759078440z6iygoP03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5130,
+                "sell_reference_price": "8.07"
+              },
+              {
+                "name": "m0NESY（闪耀） | 2022年安特卫普锦标赛",
+                "slot": 0,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a14abd995198f1c01d649JcS4c3Ea04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5589,
+                "sell_reference_price": "4.85"
+              },
+              {
+                "name": "broky（冠军） | 2022年安特卫普锦标赛",
+                "slot": 2,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/628f37d32ef6ee637a2e6c50gih9g2SO04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": 0.02079995721578598,
+                "offset_y": 0.037219464778900146,
+                "sticker_id": 5888,
+                "sell_reference_price": "0.09"
+              },
+              {
+                "name": "Jimpphat | 2024年哥本哈根锦标赛",
+                "slot": 4,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/66013f91ad744b91556523edY7fA7sup05?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": 0.029410362243652344,
+                "offset_y": 0.002388298511505127,
+                "sticker_id": 7503,
+                "sell_reference_price": "0.02"
+              }
+            ],
+            "paintseed": 722,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 循环的能量，如果悲痛欲绝的话就发泄给我",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament19",
+                "localized_name": "2022 PGL 安特卫普"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament22",
+                "localized_name": "2024年 PGL 哥本哈根"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team12",
+                "localized_name": "Natus Vincere"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team59",
+                "localized_name": "G2 Esports"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team61",
+                "localized_name": "FaZe Clan"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team106",
+                "localized_name": "MOUZ"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "s1mple",
+                "localized_name": "s1mple（Oleksandr Kostyliev）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "m0nesy",
+                "localized_name": "m0NESY（Ilia Osipov）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "broky",
+                "localized_name": "broky（Helvijs Saukants）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "jimpphat",
+                "localized_name": "Jimpphat（Jimi Salo）"
+              }
+            ],
+            "inspect_start_at": "2024-07-18 19:46:11",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "keychains": [],
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b04181d8a5667629a3afdffa3aysGYT07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b04181d8a5667629a3afdffa3aysGYT07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b04181d8a5667629a3afdffa3aysGYT07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "515",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795407763,
+        "updated_at": 1795649579,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 1262.0,
+        "featured": 0,
+        "description": "好帖纸好模好名字，秒发",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0768049,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206777490-BA08-144324461",
+        "user_id": "U1096702566",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54228437532",
+          "classid": "7993037085",
+          "instanceid": "7768529601",
+          "goods_id": 34066,
+          "paintwear": "0.34649354219436646",
+          "action_link": "/api/market/cs2_inspect/?assetid=54228437532",
+          "id": "M4639210532",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "蓝钻（闪耀）",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/62ff5289969f892dd5ee1fa9ixoZRX7a04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5935,
+                "sell_reference_price": "12.99"
+              },
+              {
+                "name": "s1mple （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 2,
+                "wear": 0.1316092014312744,
+                "img_url": "https://market.fp.ps.netease.com/file/618c834387d5df70759078440z6iygoP03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5130,
+                "sell_reference_price": "8.07"
+              },
+              {
+                "name": "s1mple （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 3,
+                "wear": 0.13411211967468262,
+                "img_url": "https://market.fp.ps.netease.com/file/618c834387d5df70759078440z6iygoP03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5130,
+                "sell_reference_price": "8.07"
+              },
+              {
+                "name": "Brehze | 2022年里约热内卢锦标赛",
+                "slot": 4,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/635a40c20bff017510c05b8aIbf61kIF04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": 0.06451559066772461,
+                "offset_y": -0.05802476406097412,
+                "rotation": 39.0,
+                "sticker_id": 6334,
+                "sell_reference_price": "0.13"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 188,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 成则佳作，碎亦星辰",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament20",
+                "localized_name": "2022年 IEM 里约锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team12",
+                "localized_name": "Natus Vincere"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team98",
+                "localized_name": "Evil Geniuses"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "s1mple",
+                "localized_name": "s1mple（Oleksandr Kostyliev）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "brehze",
+                "localized_name": "Brehze（Vincent Cayonte）"
+              }
+            ],
+            "inspect_start_at": "2026-10-20 11:57:58",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ad6e7d2d74602ebb171f02bTubX6esD07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ad6e7d2d74602ebb171f02bTubX6esD07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ad6e7d2d74602ebb171f02bTubX6esD07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "519.9",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795410244,
+        "updated_at": 1795617629,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 491.0,
+        "featured": 0,
+        "description": "喜欢s1mple的有福了",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.449695,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4182662054-B9F8-144324477",
+        "user_id": "U1102019341",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54408807874",
+          "classid": "7993037085",
+          "instanceid": "7756739403",
+          "goods_id": 34066,
+          "paintwear": "0.3010005056858063",
+          "action_link": "/api/market/cs2_inspect/?assetid=54408807874",
+          "id": "M4685616369",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "pashaBiceps | 2017年克拉科夫锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a9914a3143cfacc64acffb6KlJOrzQx?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 2169,
+                "sell_reference_price": "41.7"
+              },
+              {
+                "name": "Fnatic（全息）| 2016年科隆锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a992b9a96dee4529ed29cb1MWZGu9eD?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1374,
+                "sell_reference_price": "79.9"
+              },
+              {
+                "name": "device | 2015年卢日-纳波卡锦标赛",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5ab1c4e55e60274daec4032cXPW2GtlT?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 869,
+                "sell_reference_price": "32"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 593,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 我收集所有地方的话语  放在你手心",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament8",
+                "localized_name": "2015 DreamHack 卢日-纳波卡锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament10",
+                "localized_name": "2016年 ESL One 科隆锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament12",
+                "localized_name": "2017年 PGL 克拉科夫锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team58",
+                "localized_name": "Team SoloMid"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team6",
+                "localized_name": "Fnatic"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team31",
+                "localized_name": "Virtus.Pro"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "device",
+                "localized_name": "device（Nicolai Reedtz）"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "pasha",
+                "localized_name": "pashaBiceps（Jarosław Jarząbkowski）"
+              }
+            ],
+            "inspect_start_at": "2026-11-03 19:18:30",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ae9c3f691c4887ae559d9e8lc1YW8BP07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ae9c3f691c4887ae559d9e8lc1YW8BP07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ae9c3f691c4887ae559d9e8lc1YW8BP07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "520",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795250384,
+        "updated_at": 1795421386,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 17689.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0390625,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206864582-BA09-144324462",
+        "user_id": "U1093464785",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "47918959563",
+          "classid": "7993037085",
+          "instanceid": "6277069355",
+          "goods_id": 34066,
+          "paintwear": "0.29763126373291016",
+          "action_link": "/api/market/cs2_inspect/?assetid=47918959563",
+          "id": "M6361857396",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Tyloo （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 2,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba12973c76a40ae3a249bg8fkN6sM03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5023,
+                "sell_reference_price": "34.99"
+              },
+              {
+                "name": "Tyloo （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 1,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba12973c76a40ae3a249bg8fkN6sM03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5023,
+                "sell_reference_price": "34.99"
+              },
+              {
+                "name": "Tyloo （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 0,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba12973c76a40ae3a249bg8fkN6sM03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5023,
+                "sell_reference_price": "34.99"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 685,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 方天画戟",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team74",
+                "localized_name": "TYLOO"
+              }
+            ],
+            "inspect_start_at": "2025-11-21 08:37:14",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/69347872974bce30033ceedfcm9a3Hu607",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/69347872974bce30033ceedfcm9a3Hu607?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/69347872974bce30033ceedfcm9a3Hu607?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "525",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795416057,
+        "updated_at": 1795528967,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 103.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.104792,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4184842255-B9D9-144324382",
+        "user_id": "U1103783121",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54383015679",
+          "classid": "7993037085",
+          "instanceid": "9077102251",
+          "goods_id": 34066,
+          "paintwear": "0.2719234824180603",
+          "action_link": "/api/market/cs2_inspect/?assetid=54383015679",
+          "id": "M4682092528",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Bosh（全息）",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a98e5b446072b81b4c361beiIgi0c5k?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 33,
+                "sell_reference_price": "20.53"
+              },
+              {
+                "name": "啪啦（全息）",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a99779969b21a01cd0dabb0xipj9sdu?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 32,
+                "sell_reference_price": "19.9"
+              },
+              {
+                "name": "噼啦（全息）",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a99779cadce5f9f86b4b2800HGVoz6v?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 31,
+                "sell_reference_price": "23.65"
+              },
+              {
+                "name": "Virtus.pro（闪耀）| 2024年哥本哈根锦标赛",
+                "slot": 3,
+                "wear": 0.550000011920929,
+                "img_url": "https://market.fp.ps.netease.com/file/66013f87ebee7f2ad44df6e0m7kx9dWA05?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": -0.011330816894769669,
+                "offset_y": 0.002599954605102539,
+                "sticker_id": 7259,
+                "sell_reference_price": "0.99"
+              },
+              {
+                "name": "Virtus.Pro | 2021年斯德哥尔摩锦标赛",
+                "slot": 3,
+                "wear": 0.41999998688697815,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba069bab31b498d9b3b851kyCeTgz03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": -0.12353725731372832,
+                "offset_y": 0.062397390604019165,
+                "rotation": -3.0,
+                "sticker_id": 5038,
+                "sell_reference_price": "0.41"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 868,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: Aspiration.",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament22",
+                "localized_name": "2024年 PGL 哥本哈根"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team31",
+                "localized_name": "Virtus.Pro"
+              }
+            ],
+            "inspect_start_at": "2026-10-31 20:14:45",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ae5dd6f6052b635cc44ee52oV53VqKr07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ae5dd6f6052b635cc44ee52oV53VqKr07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ae5dd6f6052b635cc44ee52oV53VqKr07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "530",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1794946409,
+        "updated_at": 1795379488,
+        "recent_deliver_rate": null,
+        "recent_average_duration": null,
+        "featured": 0,
+        "description": "低磨好名 贴纸局内效果好 急出",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.249688,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206291323-BA00-144324469",
+        "user_id": "U1094317597",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "45723178789",
+          "classid": "7993037085",
+          "instanceid": "7757308814",
+          "goods_id": 34066,
+          "paintwear": "0.319327712059021",
+          "action_link": "/api/market/cs2_inspect/?assetid=45723178789",
+          "id": "M6078159254",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "DreamHack（闪亮）| 2015年克卢日-纳波卡锦标赛",
+                "slot": 3,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/5aa091eb02c9a1226269fde53f7kJAe1?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 960,
+                "sell_reference_price": "148"
+              },
+              {
+                "name": "Virtus.Pro | 2021年斯德哥尔摩锦标赛",
+                "slot": 2,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba069bab31b498d9b3b851kyCeTgz03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5038,
+                "sell_reference_price": "0.41"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 97,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: “杯中倒满无情酒 眼中再无意中人”",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament8",
+                "localized_name": "2015 DreamHack 卢日-纳波卡锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team31",
+                "localized_name": "Virtus.Pro"
+              }
+            ],
+            "inspect_start_at": "2025-08-26 00:35:22",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ac29728caa9700e4dc9f01ed893bgNI07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ac29728caa9700e4dc9f01ed893bgNI07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ac29728caa9700e4dc9f01ed893bgNI07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "530",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795330042,
+        "updated_at": 1795364941,
+        "recent_deliver_rate": null,
+        "recent_average_duration": null,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.107809,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206192067-BA03-144324464",
+        "user_id": "U1102779014",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "32446455579",
+          "classid": "7993037085",
+          "instanceid": "6276552157",
+          "goods_id": 34066,
+          "paintwear": "0.33148860931396484",
+          "action_link": "/api/market/cs2_inspect/?assetid=32446455579",
+          "id": "M2269193721",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Natus Vincere（全息）| 2022年安特卫普锦标赛",
+                "slot": 3,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a148d1d344961f6192f66RDQEwhGi04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5301,
+                "sell_reference_price": "12.88"
+              },
+              {
+                "name": "Natus Vincere（全息）| 2022年安特卫普锦标赛",
+                "slot": 2,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a148d1d344961f6192f66RDQEwhGi04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5301,
+                "sell_reference_price": "12.88"
+              },
+              {
+                "name": "Natus Vincere（全息）| 2022年安特卫普锦标赛",
+                "slot": 1,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a148d1d344961f6192f66RDQEwhGi04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5301,
+                "sell_reference_price": "12.88"
+              },
+              {
+                "name": "Natus Vincere（全息）| 2022年安特卫普锦标赛",
+                "slot": 0,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a148d1d344961f6192f66RDQEwhGi04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5301,
+                "sell_reference_price": "12.88"
+              }
+            ],
+            "paintseed": 86,
+            "extra_info": {},
+            "paintindex": 279,
+            "inspected_at": "2023-09-27 13:50:47",
+            "fraudwarnings": null,
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament19",
+                "localized_name": "2022 PGL 安特卫普"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team12",
+                "localized_name": "Natus Vincere"
+              }
+            ],
+            "inspect_start_at": "2023-09-13 21:48:43",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "keychains": [],
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/67a63df6715baf7da2db7370wrCRbyU106",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/67a63df6715baf7da2db7370wrCRbyU106?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/67a63df6715baf7da2db7370wrCRbyU106?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "534",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795358151,
+        "updated_at": 1795358151,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 6758.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.388199,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4204791976-BA16-144324451",
+        "user_id": "U1106987872",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54578043400",
+          "classid": "7993037085",
+          "instanceid": "9213059674",
+          "goods_id": 34066,
+          "paintwear": "0.27551811933517456",
+          "action_link": "/api/market/cs2_inspect/?assetid=54578043400",
+          "id": "M4674747878",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Snappi（金色）| 2018年伦敦锦标赛",
+                "slot": 2,
+                "wear": 0.43998855352401733,
+                "img_url": "https://market.fp.ps.netease.com/file/5b9341565e602775c5d384f7dAq5tutS?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 3391,
+                "sell_reference_price": "3766.63"
+              }
+            ],
+            "keychains": [
+              {
+                "pattern": 53858,
+                "sticker_id": 10,
+                "wrapped_sticker": null,
+                "slot": 0,
+                "name": "起原酱",
+                "img_url": "https://market.fp.ps.netease.com/file/66fdf1fc5abd0f287e09a332v8LBC2Hu05",
+                "is_souvenir": false,
+                "is_sticker_slab": false,
+                "goods_id": 968012,
+                "pattern_color": "#AC6F00",
+                "sell_reference_price": "0.83"
+              }
+            ],
+            "paintseed": 822,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 拉姆限定 橙白胖次",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament14",
+                "localized_name": "2018年 FACEIT 伦敦锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team66",
+                "localized_name": "OpTic Gaming"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "snappi",
+                "localized_name": "Snappi（Marco Pfeiffer）"
+              }
+            ],
+            "inspect_start_at": "2026-11-24 19:13:52",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b0574ef39bf8013eb1f170dophrgfyD07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b0574ef39bf8013eb1f170dophrgfyD07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b0574ef39bf8013eb1f170dophrgfyD07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "535",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795527716,
+        "updated_at": 1795527716,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 79.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": null,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4159804962-B747-144323244",
+        "user_id": "U1074284635",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "53360568143",
+          "classid": "7993037085",
+          "instanceid": "6423685466",
+          "goods_id": 34066,
+          "paintwear": "0.27884548902511597",
+          "action_link": "/api/market/cs2_inspect/?assetid=53360568143",
+          "id": "M4567420274",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "巨浪（闪亮）",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/614c37a9adce5f77a8dd0208l0u7rBle03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4936,
+                "sell_reference_price": "82.7"
+              },
+              {
+                "name": "液燃剂（闪亮）",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/614c37ab83c18c82915ec494i1rAmej203?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4934,
+                "sell_reference_price": "87.95"
+              },
+              {
+                "name": "巨浪（全息）",
+                "slot": 1,
+                "wear": 0.10630327463150024,
+                "img_url": "https://market.fp.ps.netease.com/file/614c379edfe8989e7faa7dcdOBOpKA0t03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4932,
+                "sell_reference_price": "35.89"
+              },
+              {
+                "name": "死亡之眼（闪亮）",
+                "slot": 0,
+                "wear": 0.09866433590650558,
+                "img_url": "https://market.fp.ps.netease.com/file/614c37aa213594791b8029196NBa6zNo03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4931,
+                "sell_reference_price": "40.23"
+              }
+            ],
+            "keychains": [
+              {
+                "pattern": 86247,
+                "sticker_id": 1,
+                "wrapped_sticker": null,
+                "slot": 0,
+                "name": "小爱娃",
+                "img_url": "https://market.fp.ps.netease.com/file/66fde65d0a3d243f6bd2471d7Iz7498Q05",
+                "is_souvenir": false,
+                "is_sticker_slab": false,
+                "goods_id": 967946,
+                "pattern_color": "#705670",
+                "sell_reference_price": "0.58"
+              }
+            ],
+            "paintseed": 780,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [],
+            "inspect_start_at": "2026-08-16 15:27:43",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6a8167897ddbef6471e8cae2huHWGGiF07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6a8167897ddbef6471e8cae2huHWGGiF07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6a8167897ddbef6471e8cae2huHWGGiF07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "538",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1789303462,
+        "updated_at": 1795613241,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 603.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.13724,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4204806779-BA16-144324451",
+        "user_id": "U1074594534",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "51705497167",
+          "classid": "7993037085",
+          "instanceid": "480085569",
+          "goods_id": 34066,
+          "paintwear": "0.2517036497592926",
+          "action_link": "/api/market/cs2_inspect/?assetid=51705497167",
+          "id": "M4443690552",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [],
+            "keychains": [],
+            "paintseed": 326,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [],
+            "inspect_start_at": "2026-05-15 18:59:34",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b05d41787398fb8c53e8004R3BPawjW07",
+            "inspect_size": "2560x3469",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b05d41787398fb8c53e8004R3BPawjW07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b05d41787398fb8c53e8004R3BPawjW07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "540",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795526099,
+        "updated_at": 1795577153,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 3908.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": null,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4182752510-B9F9-144324478",
+        "user_id": "U1083386185",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "53577194289",
+          "classid": "7993037085",
+          "instanceid": "6287369236",
+          "goods_id": 34066,
+          "paintwear": "0.3292439579963684",
+          "action_link": "/api/market/cs2_inspect/?assetid=53577194289",
+          "id": "M4618014744",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Natus Vincere （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba08fc521398b44eac7ffT00kD8y503?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4963,
+                "sell_reference_price": "12.8"
+              },
+              {
+                "name": "Natus Vincere （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba08fc521398b44eac7ffT00kD8y503?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4963,
+                "sell_reference_price": "12.8"
+              },
+              {
+                "name": "Natus Vincere （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba08fc521398b44eac7ffT00kD8y503?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4963,
+                "sell_reference_price": "12.8"
+              },
+              {
+                "name": "Natus Vincere （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/617ba08fc521398b44eac7ffT00kD8y503?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 4963,
+                "sell_reference_price": "12.8"
+              },
+              {
+                "name": "s1mple （全息） | 2021年斯德哥尔摩锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/618c834387d5df70759078440z6iygoP03?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": 0.16812309622764587,
+                "offset_y": 0.001309424638748169,
+                "sticker_id": 5130,
+                "sell_reference_price": "8.07"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 576,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 一生けんめいのんびりしよう",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament18",
+                "localized_name": "2021年 PGL 斯德哥尔摩"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team12",
+                "localized_name": "Natus Vincere"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "s1mple",
+                "localized_name": "s1mple（Oleksandr Kostyliev）"
+              }
+            ],
+            "inspect_start_at": "2026-08-31 20:42:21",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6a9576e54bfec4a945b8a3a5x1HdIi7h07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6a9576e54bfec4a945b8a3a5x1HdIi7h07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6a9576e54bfec4a945b8a3a5x1HdIi7h07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "545",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795258523,
+        "updated_at": 1795624623,
+        "recent_deliver_rate": null,
+        "recent_average_duration": null,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.52303,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4182637871-B9FB-144324472",
+        "user_id": "U1093938691",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54526212279",
+          "classid": "7993037085",
+          "instanceid": "6276495095",
+          "goods_id": 34066,
+          "paintwear": "0.36918920278549194",
+          "action_link": "/api/market/cs2_inspect/?assetid=54526212279",
+          "id": "M4694366285",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "FaZe Clan | 2018年伦敦锦标赛",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5b8786757f9d2a713bc0fdabIejpvG1C?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 2959,
+                "sell_reference_price": "15.9"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 819,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament14",
+                "localized_name": "2018年 FACEIT 伦敦锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team61",
+                "localized_name": "FaZe Clan"
+              }
+            ],
+            "inspect_start_at": "2026-11-13 13:07:40",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6af69c46a7b4a0f82f69dcb17mXvQfiB07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6af69c46a7b4a0f82f69dcb17mXvQfiB07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6af69c46a7b4a0f82f69dcb17mXvQfiB07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "549.7",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795273908,
+        "updated_at": 1795375502,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 99.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 1.70883,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4204005261-BA22-144324439",
+        "user_id": "U1102911006",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54558573924",
+          "classid": "7993037085",
+          "instanceid": "7755430956",
+          "goods_id": 34066,
+          "paintwear": "0.26205652952194214",
+          "action_link": "/api/market/cs2_inspect/?assetid=54558573924",
+          "id": "M4664886066",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Splyce（闪亮）| 2016年 MLG 哥伦布锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a99d36020e3db1f8b8190e3BV3rykmr?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1013,
+                "sell_reference_price": "277.5"
+              },
+              {
+                "name": "卡哇伊CT（全息）",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/62ff52874efdc9279f222366iCt6hU3g04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5941,
+                "sell_reference_price": "28.8"
+              },
+              {
+                "name": "卡哇伊CT（全息）",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/62ff52874efdc9279f222366iCt6hU3g04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5941,
+                "sell_reference_price": "28.8"
+              },
+              {
+                "name": "卡哇伊CT（全息）",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/62ff52874efdc9279f222366iCt6hU3g04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5941,
+                "sell_reference_price": "28.8"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 980,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 2D Girls > 3D Girls",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament9",
+                "localized_name": "2016年 MLG 哥伦布锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team62",
+                "localized_name": "Splyce"
+              }
+            ],
+            "inspect_start_at": "2026-11-18 11:50:09",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6afd23d8f29f9a25258467f4MISGLoFx07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6afd23d8f29f9a25258467f4MISGLoFx07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6afd23d8f29f9a25258467f4MISGLoFx07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "549.99",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795646819,
+        "updated_at": 1795646819,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 2479.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.0989008,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4174649898-B862-144322967",
+        "user_id": "U1087313774",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54040591875",
+          "classid": "7993037085",
+          "instanceid": "8846762938",
+          "goods_id": 34066,
+          "paintwear": "0.2738778293132782",
+          "action_link": "/api/market/cs2_inspect/?assetid=54040591875",
+          "id": "M4656067985",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "MLG | 2016年 MLG 哥伦布锦标赛",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a99292416b6d46a37d7ceb6us3skMFb?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1071,
+                "sell_reference_price": "105.09"
+              },
+              {
+                "name": "CT快跑",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/62036d44672a5296a2556d80fR8D88W804?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 5255,
+                "sell_reference_price": "0.76"
+              },
+              {
+                "name": "Virtus.Pro | 2015年科隆锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a9962a9fb758ab716f7c40adBaKv0lY?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 623,
+                "sell_reference_price": "21.61"
+              },
+              {
+                "name": "DreamHack | 2015年克卢日-纳波卡锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a990f2296dee4ef89686155V7UA0I3a?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 959,
+                "sell_reference_price": "47.87"
+              },
+              {
+                "name": "Vitality | 2022年安特卫普锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/627a14a6cd022653769c80f9LU5OMjmI04?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "offset_x": 0.17537102103233335,
+                "offset_y": 0.0019353032112121584,
+                "sticker_id": 5319,
+                "sell_reference_price": "0.07"
+              }
+            ],
+            "keychains": [
+              {
+                "pattern": 17472,
+                "sticker_id": 48,
+                "wrapped_sticker": null,
+                "slot": 0,
+                "name": "小咯咯",
+                "img_url": "https://market.fp.ps.netease.com/file/68ddbe4885bd5fd6184f8c60REYoqiwM06",
+                "is_souvenir": false,
+                "is_sticker_slab": false,
+                "goods_id": 1120462,
+                "pattern_color": "#8F00D8",
+                "sell_reference_price": "1.34"
+              }
+            ],
+            "paintseed": 292,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 方天画戟",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament9",
+                "localized_name": "2016年 MLG 哥伦布锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament7",
+                "localized_name": "2015年 ESL One 科隆锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament8",
+                "localized_name": "2015 DreamHack 卢日-纳波卡锦标赛"
+              },
+              {
+                "category": "tournament",
+                "internal_name": "tournament19",
+                "localized_name": "2022 PGL 安特卫普"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team31",
+                "localized_name": "Virtus.Pro"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team89",
+                "localized_name": "Vitality"
+              }
+            ],
+            "inspect_start_at": "2026-10-04 20:53:57",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6ac24cdbeecebdf4b0ad41b620TZSkAE07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6ac24cdbeecebdf4b0ad41b620TZSkAE07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6ac24cdbeecebdf4b0ad41b620TZSkAE07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "550",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1791726149,
+        "updated_at": 1795619454,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 80.0,
+        "featured": 0,
+        "description": "好名好贴好磨损",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.197605,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4191118770-B979-144322814",
+        "user_id": "U1105111059",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "52524437027",
+          "classid": "7993037085",
+          "instanceid": "6276422801",
+          "goods_id": 34066,
+          "paintwear": "0.262195348739624",
+          "action_link": "/api/market/cs2_inspect/?assetid=52524437027",
+          "id": "M4528091183",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "Virtus.Pro | 2017年亚特兰大锦标赛",
+                "slot": 3,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a993e0d8b7427ca89d90039zR3OHvYP?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1798,
+                "sell_reference_price": "31.48"
+              },
+              {
+                "name": "Virtus.Pro | 2017年亚特兰大锦标赛",
+                "slot": 2,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a993e0d8b7427ca89d90039zR3OHvYP?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1798,
+                "sell_reference_price": "31.48"
+              },
+              {
+                "name": "Virtus.Pro | 2017年亚特兰大锦标赛",
+                "slot": 1,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a993e0d8b7427ca89d90039zR3OHvYP?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1798,
+                "sell_reference_price": "31.48"
+              },
+              {
+                "name": "Virtus.Pro | 2017年亚特兰大锦标赛",
+                "slot": 0,
+                "wear": 0.0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a993e0d8b7427ca89d90039zR3OHvYP?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 1798,
+                "sell_reference_price": "31.48"
+              }
+            ],
+            "keychains": [],
+            "paintseed": 842,
+            "paintindex": 279,
+            "fraudwarnings": "名称标签: 二两西风似弹痕 莫让莽夫过中门",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament11",
+                "localized_name": "2017年 ELEAGUE 亚特兰大锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team31",
+                "localized_name": "Virtus.Pro"
+              }
+            ],
+            "inspect_start_at": "2026-06-26 20:44:59",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6a52106d67ccdc98599288a4IR2fcN9j07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6a52106d67ccdc98599288a4IR2fcN9j07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6a52106d67ccdc98599288a4IR2fcN9j07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "550",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1794044683,
+        "updated_at": 1795527849,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 95.0,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.285896,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4182311929-B9FF-144324468",
+        "user_id": "U1099012964",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "54552562530",
+          "classid": "7993037085",
+          "instanceid": "188530139",
+          "goods_id": 34066,
+          "paintwear": "0.26647359132766724",
+          "action_link": "/api/market/cs2_inspect/?assetid=54552562530",
+          "id": "M4695222075",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [],
+            "keychains": [],
+            "paintseed": 537,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [],
+            "inspect_start_at": "2026-11-15 00:42:31",
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b02b11b4534184b5968f595laQt92kF07",
+            "inspect_size": "2560x3469",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b02b11b4534184b5968f595laQt92kF07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b02b11b4534184b5968f595laQt92kF07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "550",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795327133,
+        "updated_at": 1795327133,
+        "recent_deliver_rate": null,
+        "recent_average_duration": null,
+        "featured": 0,
+        "description": "",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": null,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          3,
+          49,
+          50,
+          51,
+          52,
+          1,
+          6,
+          7,
+          44,
+          45,
+          18
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "alipay"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      },
+      {
+        "appid": 730,
+        "game": "csgo",
+        "id": "4206300201-BA01-144324470",
+        "user_id": "U1081228842",
+        "user_steamid": "",
+        "asset_info": {
+          "appid": 730,
+          "contextid": 2,
+          "assetid": "48000286114",
+          "classid": "7993037085",
+          "instanceid": "6279963596",
+          "goods_id": 34066,
+          "paintwear": "0.2715564966201782",
+          "action_link": "/api/market/cs2_inspect/?assetid=48000286114",
+          "id": "M6363260473",
+          "info": {
+            "icon_url": "https://market.fp.ps.netease.com/file/65f575a60395577fe46fce4cwulcuX9h05?fop=imageView/6/f/webp/q/75",
+            "stickers": [
+              {
+                "name": "kennyS | 2015年卢日-纳波卡锦标赛",
+                "slot": 3,
+                "wear": 0,
+                "img_url": "https://market.fp.ps.netease.com/file/5a9912aa69b21a265ac70efe6SEiymIJ?fop=imageView/6/f/webp/q/75",
+                "category": "sticker",
+                "sticker_id": 710,
+                "sell_reference_price": "99.9"
+              }
+            ],
+            "keychains": [
+              {
+                "pattern": 90373,
+                "sticker_id": 19,
+                "wrapped_sticker": null,
+                "slot": 0,
+                "name": "袖珍AWP",
+                "img_url": "https://market.fp.ps.netease.com/file/66fdeca7369878422fe8efa4tHYQUJyI05",
+                "is_souvenir": false,
+                "is_sticker_slab": false,
+                "goods_id": 967979,
+                "pattern_color": "#574244",
+                "sell_reference_price": "0.52"
+              }
+            ],
+            "paintseed": 956,
+            "paintindex": 279,
+            "fraudwarnings": "",
+            "tournament_tags": [
+              {
+                "category": "tournament",
+                "internal_name": "tournament8",
+                "localized_name": "2015 DreamHack 卢日-纳波卡锦标赛"
+              },
+              {
+                "category": "tournamentteam",
+                "internal_name": "team46",
+                "localized_name": "Team EnVyUs"
+              },
+              {
+                "category": "proplayer",
+                "internal_name": "kennys",
+                "localized_name": "kennyS（Kenny Schrub）"
+              }
+            ],
+            "original_icon_url": "https://market.fp.ps.netease.com/file/65f575a41c820e512d670ae7RpTs3ebb05?fop=imageView/6/f/webp/q/75",
+            "inspect_state": 2,
+            "inspect_url": "https://spect.fp.ps.netease.com/file/6b03a65ac27aa48f372dc1a8McNcbmkX07",
+            "inspect_size": "2560x3812",
+            "inspect_mobile_url": "https://spect.fp.ps.netease.com/file/6b03a65ac27aa48f372dc1a8McNcbmkX07?fop=imageView/4/x/0/y/0/h/2790",
+            "inspect_mobile_size": "2688x2790",
+            "inspect_preview_url": "https://spect.fp.ps.netease.com/file/6b03a65ac27aa48f372dc1a8McNcbmkX07?fop=imageView/4/x/314/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
+            "inspect_preview_size": "392x260"
+          },
+          "has_tradable_cooldown": false,
+          "tradable_unfrozen_time": null,
+          "tradable_cooldown_text": ""
+        },
+        "price": "550",
+        "fee": "0",
+        "state": 1,
+        "mode": 5,
+        "goods_id": 34066,
+        "created_at": 1795342870,
+        "updated_at": 1795654225,
+        "recent_deliver_rate": 1.0,
+        "recent_average_duration": 1112.0,
+        "featured": 0,
+        "description": "k神贴纸",
+        "tradable_cooldown": null,
+        "allow_bargain": true,
+        "income": "0",
+        "allow_bargain_chat": true,
+        "sticker_premium": 0.355155,
+        "order_type": 1,
+        "allow_bargain_swap": true,
+        "deliver_deposit": null,
+        "fold_asset_count": null,
+        "fold_unique_key": null,
+        "state_text": "新建",
+        "allow_pending_divide_balance": true,
+        "bookmarked": false,
+        "can_bargain": true,
+        "cannot_bargain_reason": "",
+        "supported_pay_methods": [
+          1,
+          6,
+          7,
+          44,
+          45,
+          18,
+          61
+        ],
+        "supported_pay_channels": [
+          "nepay",
+          "wechatpay",
+          "pending"
+        ],
+        "can_bargain_swap": true,
+        "can_bargain_chat": false
+      }
+    ],
+    "total_count": 20
+  }
+}
