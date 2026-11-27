@@ -1,11 +1,23 @@
 <template>
   <div class="page">
-    <header class="page-header">
+        <header class="page-header">
       <div>
         <h1>CS2 饰品监控面板</h1>
         <p class="subtitle">比价、价格曲线和提醒；下单与支付仍在平台手工完成。</p>
       </div>
-      <el-tag type="success" effect="plain">只读监控</el-tag>
+      <div class="header-right">
+        <el-tag :type="healthTagType" effect="plain">{{ healthText }}</el-tag>
+        <div class="health-line">
+          <span>Stream {{ health.stream.length }} 条</span>
+          <span>Pending {{ health.stream.pending }}</span>
+          <span
+            v-for="item in health.collectors"
+            :key="item.platform"
+          >
+            {{ item.platform }}：{{ healthAge(item) }}
+          </span>
+        </div>
+      </div>
     </header>
 
     <el-card shadow="never" class="filter-card">
@@ -219,7 +231,7 @@
 import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref } from 'vue'
 import * as echarts from 'echarts'
 import { ElMessage } from 'element-plus'
-import { ackAlert, getAlerts, getCompare, getHistory } from '../api'
+import { ackAlert, getAlerts, getCompare, getHealth, getHistory } from '../api'
 import RulePanel from '../components/RulePanel.vue'
 
 const wearOptions = [
@@ -246,6 +258,15 @@ const compare = reactive({
 
 const history = reactive({ points: [] })
 const alerts = ref([])
+
+const health = reactive({
+  status: 'UNKNOWN',
+  stream: { key: 'cs2:listings', length: 0, pending: 0, lastEntryAt: null },
+  collectors: [],
+  checkedAt: null
+})
+let healthTimer = null
+
 const loading = ref(false)
 const chartRef = ref(null)
 let chart = null
@@ -253,6 +274,20 @@ let chart = null
 const bestPrice = computed(() =>
   compare.platforms.length > 0 ? compare.platforms[0].netCost : null
 )
+
+const healthText = computed(() => {
+  if (health.status === 'UP') return '采集正常'
+  if (health.status === 'DEGRADED') return '采集部分异常'
+  if (health.status === 'DOWN') return '采集停滞'
+  return '采集状态未知'
+})
+
+const healthTagType = computed(() => {
+  if (health.status === 'UP') return 'success'
+  if (health.status === 'DEGRADED') return 'warning'
+  if (health.status === 'DOWN') return 'danger'
+  return 'info'
+})
 
 async function loadAll() {
   loading.value = true
@@ -277,6 +312,15 @@ async function loadAll() {
     ElMessage.error(error?.response?.data?.message || error.message || '请求失败')
   } finally {
     loading.value = false
+  }
+}
+
+async function loadHealth() {
+  try {
+    const data = await getHealth()
+    Object.assign(health, data)
+  } catch (error) {
+    health.status = 'UNKNOWN'
   }
 }
 
@@ -365,12 +409,24 @@ const text = (value) => (value == null ? '-' : value)
 const statusType = (status) =>
   ({ SENT: 'success', PENDING: 'warning', ACK: 'info' }[status] || 'info')
 
+const healthAge = (item) => {
+  if (item.status === 'DOWN' || item.ageSeconds == null) return '无心跳'
+  const prefix = item.status === 'STALE' ? '停更 ' : ''
+  if (item.ageSeconds < 60) return `${prefix}${item.ageSeconds}s 前`
+  return `${prefix}${Math.floor(item.ageSeconds / 60)}m 前`
+}
+
 onMounted(() => {
   loadAll()
+  loadHealth()
+  healthTimer = setInterval(loadHealth, 30000)
   window.addEventListener('resize', resizeChart)
 })
 
 onBeforeUnmount(() => {
+  if (healthTimer) {
+    clearInterval(healthTimer)
+  }
   window.removeEventListener('resize', resizeChart)
   chart?.dispose()
 })

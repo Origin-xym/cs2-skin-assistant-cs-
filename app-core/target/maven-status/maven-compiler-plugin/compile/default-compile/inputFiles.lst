@@ -2,6 +2,8 @@ D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\AppCoreApplic
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\compare\CompareController.java
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\compare\CompareResponse.java
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\compare\CompareService.java
+D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\health\CollectorHealthController.java
+D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\health\CollectorHealthService.java
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\price\PriceHistoryController.java
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\price\PriceHistoryResponse.java
 D:\cs2-skin-assistant\app-core\src\main\java\com\cs2skin\assistant\price\PriceHistoryRow.java

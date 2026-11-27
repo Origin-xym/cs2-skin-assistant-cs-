@@ -12,9 +12,10 @@
 from __future__ import annotations
 
 import asyncio
+import json
 import time
+from datetime import datetime, timezone
 from typing import Any
-
 from loguru import logger
 from redis.asyncio import Redis
 
@@ -26,6 +27,10 @@ from core.snapshot_writer import SnapshotWriter
 from core.watchlist import WatchList, WatchListError
 
 LOCK_PREFIX = "collector:lock"
+LOCK_PREFIX = "collector:lock"
+HEARTBEAT_PREFIX = "collector:heartbeat"
+HEARTBEAT_TTL_SEC = 180
+
 
 class CollectorScheduler:
     def __init__(
@@ -85,6 +90,7 @@ class CollectorScheduler:
             "summary": "无标的",
         }
         if not items:
+            await self._write_heartbeat(platform, stats)
             return stats
 
         if not await self._acquire_lock(platform):
@@ -134,7 +140,34 @@ class CollectorScheduler:
             )
             return stats
         finally:
+            await self._write_heartbeat(platform, stats)
             await self._release_lock(platform)
+
+
+    async def _write_heartbeat(self, platform: str, stats: dict[str, Any]) -> None:
+        if self._lock_client is None:
+            return
+
+        ttl_sec = max(HEARTBEAT_TTL_SEC, int(self._interval * 3))
+        payload = {
+            "platform": platform,
+            "at": datetime.now(timezone.utc).isoformat(),
+            "ttl_sec": ttl_sec,
+            "items": stats["items"],
+            "written": stats["written"],
+            "skipped": stats["skipped"],
+            "errors": stats["errors"],
+            "summary": stats["summary"],
+        }
+        try:
+            await self._lock_client.set(
+                f"{HEARTBEAT_PREFIX}:{platform}",
+                json.dumps(payload, ensure_ascii=False),
+                ex=ttl_sec,
+            )
+        except Exception as exc:
+            logger.warning(f"[{platform}] 写心跳失败：{exc}")
+
 
     async def _acquire_lock(self, platform: str) -> bool:
         if self._lock_client is None:

@@ -28,3 +28,6 @@ export const updateRule = (id, payload) =>
 
 export const toggleRule = (id) =>
   http.patch(`/rules/${id}/toggle`).then((response) => response.data)
+
+export const getHealth = () =>
+  http.get('/health/collectors').then((response) => response.data)
